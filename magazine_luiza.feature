@@ -6,4 +6,4 @@ Funcionalidade: Produto
     Dado que esteja na home
     Quando pesquisar por "computador"
     E adicionar o primeiro produto ao carrinho
-    Então deverá estar no carrinho
+    Então o produto deverá estar no carrinho
