@@ -1,11 +1,9 @@
 # language: pt
 @carrinho_magalu
-Funcionalidade: Adicionar um computador ao carrinho do site Magazine Luiza
- A fim de adicionar um computador ao carrinho
- Como um cliente
- 
-Cenário:
- Dado que o clinete acesse o site do Magazine Luiza
- Quando o cliente pesquisa por "computador"
- E adiciona ao carrinho o primeiro produto que aparece como resultado da pesquisa
- Então deve ser incluído no carrinho do cliente o produto adicionado
+Funcionalidade: Produto
+  
+  Cenário: Adicionar produto
+    Dado que esteja na home
+    Quando pesquisar por "computador"
+    E adicionar o primeiro produto ao carrinho
+    Então deverá estar no carrinho
