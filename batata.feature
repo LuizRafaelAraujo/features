@@ -2,7 +2,7 @@
 
 Funcionalidade: Pesquisa
  
-  Cenário: Pesuisar imagem
+  Cenário: Pesquisar imagem
     Dado que esteja na home
     Quando pesquisar "batata"
     E acessar imagens
