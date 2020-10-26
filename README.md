@@ -1,3 +1,3 @@
 # .feature
 
-Exemplo de atividade de fluxos usando **GitFlow + Gherkins**!
+Exemplo de construção de fluxos usando **GitFlow + Gherkins**!
